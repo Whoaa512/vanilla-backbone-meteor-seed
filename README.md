@@ -1,5 +1,5 @@
-Todos-XL
-========
+Meteor Template
+===============
 
 Structure
 ---------
