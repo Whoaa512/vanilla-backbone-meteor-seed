@@ -6,9 +6,7 @@
 autopublish
 insecure
 preserve-inputs
-coffeescript
 bootstrap
-less
 backbone
 jquery
 underscore
