@@ -4,7 +4,7 @@ Simple [Meteor](https://github.com/meteor/meteor) seed repo with some core smart
 
 Usage:
 ```
-git clone http://github.com/Whoaa512/backbone-coffee-meteor-seed.git [project-name]
+git clone https://github.com/Whoaa512/vanilla-backbone-meteor-seed.git [project-name]
 cd [project-name]
 meteor update
 meteor
@@ -16,9 +16,7 @@ Comes with the following core smart packages already install:
 * `autopublish`
 * `insecure`
 * `preserve-inputs`
-* `coffeescript`
 * `bootstrap`
-* `less`
 * `backbone`
 * `jquery`
 * `underscore`
@@ -71,8 +69,9 @@ feature-foo/server/        # <- files only available on the server
 ## Need more smart packages?
 You can optionally add a `packages` folder to your root directory where you can clone down repos of [Meteorite smart packages](http://atmosphere.meteor.com). No Meteorite needed!
 
-[Original repo](https://github.com/nickjanssen/meteor-template) by @nickjanssen.
+[Original repo](https://github.com/nickjanssen/meteor-template) by @[nickjanssen](https://github.com/nickjanssen/).
+Update [BackboneCoffee Meteor Seed](https://github.com/Whoaa512/backbone-coffee-meteor-seed) by @[Whoaa512](https://github.com/whoaa512/).
 
-Folder structure based from @oortcloud's [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq/blob/master/README.md#where-should-i-put-my-files).
+Folder structure based from @[oortcloud](https://github.com/oortcloud/)'s [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq/blob/master/README.md#where-should-i-put-my-files).
 
 MIT License
